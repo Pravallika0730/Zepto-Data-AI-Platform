@@ -100,3 +100,4 @@ Performed the following:
 2. cleaner.py
 3. database.py
 4. queries.py
+Project completed as part of the Zepto AI/ML Capstone Project.
