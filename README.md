@@ -42,3 +42,5 @@ python data_pipeline/queries.py
 ```
 
 Repository contains Module 1, Module 2, and Module 3 of the capstone project.
+
+Repository contains all three capstone modules.
