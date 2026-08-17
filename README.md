@@ -6,21 +6,13 @@
 
 data_pipeline
 
-Completed
-
 ### Module 2
 
 analytics
 
-(To be completed)
-
 ### Module 3
 
 support_assistant
-
-(To be completed)
-
----
 
 ## Installation
 
